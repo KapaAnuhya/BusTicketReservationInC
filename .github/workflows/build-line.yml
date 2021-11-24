@@ -1,6 +1,6 @@
 name:Windows C/C++ CI
 
-on:
+on line"
   push:
     branches: [ master ]
   pull_request:
